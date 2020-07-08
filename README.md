@@ -1,5 +1,6 @@
 # name of repo-newIssue
 #-----CODE BELOW-------
+#ISSUE URL-https://github.com/AlwaysLearner29/newIssue/issues
 from github import Github
 import os
 from pprint import pprint
